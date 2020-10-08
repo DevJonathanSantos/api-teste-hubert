@@ -1,0 +1,8 @@
+C:\Projects\apis\api-teste-hubert\app\TesteHubert\bin\Debug\netcoreapp3.1\TesteHubert.deps.json
+C:\Projects\apis\api-teste-hubert\app\TesteHubert\bin\Debug\netcoreapp3.1\TesteHubert.dll
+C:\Projects\apis\api-teste-hubert\app\TesteHubert\bin\Debug\netcoreapp3.1\TesteHubert.pdb
+C:\Projects\apis\api-teste-hubert\app\TesteHubert\obj\Debug\netcoreapp3.1\TesteHubert.AssemblyInfoInputs.cache
+C:\Projects\apis\api-teste-hubert\app\TesteHubert\obj\Debug\netcoreapp3.1\TesteHubert.AssemblyInfo.cs
+C:\Projects\apis\api-teste-hubert\app\TesteHubert\obj\Debug\netcoreapp3.1\TesteHubert.csproj.CoreCompileInputs.cache
+C:\Projects\apis\api-teste-hubert\app\TesteHubert\obj\Debug\netcoreapp3.1\TesteHubert.dll
+C:\Projects\apis\api-teste-hubert\app\TesteHubert\obj\Debug\netcoreapp3.1\TesteHubert.pdb
